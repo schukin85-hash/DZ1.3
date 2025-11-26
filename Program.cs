@@ -57,6 +57,8 @@ namespace Расчет_кол_ва_уровней__длинный_вариант
             {
                 Console.WriteLine(levels[i]);
             }
+
+            //Comment
             
         }
     }
